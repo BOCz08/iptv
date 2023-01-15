@@ -46,7 +46,7 @@ http://192.168.8.1:4022/rtp/239.61.2.230:9368
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://192.168.8.1:4022/rtp/239.61.2.15:8084
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1高清
-http://192.168.8.1:4022/rtp/239.61.2.27:8156
+http://192.168.8.1:4022/rtp/239.61.5.180:1025
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2高清
 http://192.168.8.1:4022/rtp/239.61.2.174:9032
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3-综艺高清
