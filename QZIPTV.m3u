@@ -197,6 +197,8 @@ http://192.168.8.1:4022/rtp/239.61.2.79:8468
 http://192.168.8.1:4022/rtp/239.61.2.92:8546
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
 http://192.168.8.1:4022/rtp/239.61.2.184:9092
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://192.168.8.1:4022/rtp/239.61.5.47:1025
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2
 http://192.168.8.1:4022/rtp/239.61.3.6:9554
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国气象
