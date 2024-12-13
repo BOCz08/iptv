@@ -127,7 +127,7 @@ http://192.168.8.1:4022/rtp/239.61.4.32:1025
 http://192.168.8.1:4022/rtp/239.61.4.63:1025
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
 http://192.168.8.1:4022/rtp/239.61.4.61:1025
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视高清
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="卫视",海南卫视高清
 http://192.168.8.1:4022/rtp/239.61.5.190:1025
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
 http://192.168.8.1:4022/rtp/239.61.4.50:1025
@@ -243,11 +243,11 @@ http://192.168.8.1:4022/rtp/239.61.4.199:1025
 http://192.168.8.1:4022/rtp/239.61.4.200:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",股评汇
 http://192.168.8.1:4022/rtp/239.61.2.92:8546
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="地方",中国教育1
 http://192.168.8.1:4022/rtp/239.61.5.53:1025
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="地方",中国教育2
 http://192.168.8.1:4022/rtp/239.61.5.169:1025
-#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育4
+#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="地方",中国教育4
 http://192.168.8.1:4022/rtp/239.61.5.196:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国气象
 http://192.168.8.1:4022/rtp/239.61.4.66:1025
