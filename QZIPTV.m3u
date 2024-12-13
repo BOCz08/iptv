@@ -127,7 +127,7 @@ http://192.168.8.1:4022/rtp/239.61.4.32:1025
 http://192.168.8.1:4022/rtp/239.61.4.63:1025
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
 http://192.168.8.1:4022/rtp/239.61.4.61:1025
-#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="卫视",海南卫视高清
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视高清
 http://192.168.8.1:4022/rtp/239.61.5.190:1025
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
 http://192.168.8.1:4022/rtp/239.61.4.50:1025
