@@ -161,11 +161,11 @@ http://192.168.8.1:4022/rtp/239.61.2.48:8282
 http://192.168.8.1:4022/rtp/239.61.2.60:8354
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://192.168.8.1:4022/rtp/239.61.5.110:1025
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo=https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://192.168.8.1:4022/rtp/239.61.5.112:1025
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://192.168.8.1:4022/rtp/239.61.5.113:1025
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.8.1:4022/rtp/239.61.5.114:1025
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://192.168.8.1:4022/rtp/239.61.5.115:1025
@@ -239,7 +239,7 @@ http://192.168.8.1:4022/rtp/239.61.4.188:1025
 http://192.168.8.1:4022/rtp/239.61.4.189:1025
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
 http://192.168.8.1:4022/rtp/239.61.4.199:1025
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="地方",老故事
 http://192.168.8.1:4022/rtp/239.61.4.200:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",股评汇
 http://192.168.8.1:4022/rtp/239.61.2.92:8546
