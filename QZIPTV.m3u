@@ -145,7 +145,7 @@ http://192.168.8.1:4022/rtp/239.61.5.111:1025
 http://192.168.8.1:4022/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://192.168.8.1:4022/rtp/239.61.5.47:1025
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文高清
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",纪实人文高清
 http://192.168.8.1:4022/rtp/239.61.5.51:1025
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://192.168.8.1:4022/rtp/239.61.4.40:1025
@@ -173,7 +173,7 @@ http://192.168.8.1:4022/rtp/239.61.5.114:1025
 http://192.168.8.1:4022/rtp/239.61.5.115:1025
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实卫视高清
 http://192.168.8.1:4022/rtp/239.61.5.171:1025
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场高清
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场高清
 http://192.168.8.1:4022/rtp/239.61.5.30:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场高清
 http://192.168.8.1:4022/rtp/239.61.5.33:1025
@@ -209,7 +209,7 @@ http://192.168.8.1:4022/rtp/239.61.5.108:1025
 http://192.168.8.1:4022/rtp/239.61.4.72:1025
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://192.168.8.1:4022/rtp/239.61.4.74:1025
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="地方",新动漫
 http://192.168.8.1:4022/rtp/239.61.4.173:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",法治天地
 http://192.168.8.1:4022/rtp/239.61.4.77:1025
