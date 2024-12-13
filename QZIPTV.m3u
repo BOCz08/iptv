@@ -19,9 +19,9 @@ http://192.168.8.1:4022/rtp/239.61.4.9:1025
 http://192.168.8.1:4022/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建教育频道
 http://192.168.8.1:4022/rtp/239.61.5.60:1025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",泉州1套
+#EXTINF:-1 tvg-id="" tvg-name="QZTV-1" tvg-logo="https://epg.112114.xyz/logo/泉州新闻.png" group-title="福建",泉州1套
 http://192.168.8.1:4022/rtp/239.61.2.193:9146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门1套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/厦门1套.png" group-title="福建",厦门1套
 http://192.168.8.1:4022/rtp/239.61.2.213:9266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福州新闻
 http://192.168.8.1:4022/rtp/239.61.2.212:9260
