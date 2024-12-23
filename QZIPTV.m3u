@@ -251,3 +251,5 @@ http://192.168.8.1:4022/rtp/239.61.5.169:1025
 http://192.168.8.1:4022/rtp/239.61.5.196:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国气象
 http://192.168.8.1:4022/rtp/239.61.4.66:1025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",泉州4套
+http://192.168.8.1:4022/rtmp/live.qztv.cn/live/mny
